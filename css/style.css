@@ -8,6 +8,11 @@
     font-family: 'Cairo', sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
+
 body {
     counter-reset: count;
 }
